@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\bin\Debug\net8.0\CsharpWhileLoop.exe
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\bin\Debug\net8.0\CsharpWhileLoop.deps.json
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\bin\Debug\net8.0\CsharpWhileLoop.runtimeconfig.json
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\bin\Debug\net8.0\CsharpWhileLoop.dll
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\bin\Debug\net8.0\CsharpWhileLoop.pdb
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\obj\Debug\net8.0\CsharpWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\obj\Debug\net8.0\CsharpWhileLoop.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\obj\Debug\net8.0\CsharpWhileLoop.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\obj\Debug\net8.0\CsharpWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\obj\Debug\net8.0\CsharpWhileLoop.dll
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\obj\Debug\net8.0\refint\CsharpWhileLoop.dll
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\obj\Debug\net8.0\CsharpWhileLoop.pdb
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\obj\Debug\net8.0\CsharpWhileLoop.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Csharp\CsharpWhileLoop\obj\Debug\net8.0\ref\CsharpWhileLoop.dll
